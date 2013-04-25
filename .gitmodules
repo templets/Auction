@@ -1,0 +1,3 @@
+[submodule "node-passbook"]
+	path = node-passbook
+	url = https://github.com/assaf/node-passbook.git

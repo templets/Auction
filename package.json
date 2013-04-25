@@ -1,0 +1,40 @@
+{ "name": "hacAuction",
+  "description": "Hyper Active Auction Card",
+  "homepage": "https://github.com/advatar/pkpass",
+  "version": "0.0.1",
+  "author": {
+    "name": "Johan Sellström",
+    "email": "johan@sellstrom.me"
+  },
+  "main": "app.js",
+  "dependencies": {
+    "passbook":  "*",
+    "nools":    "*"
+  },
+  "devDependencies": {
+    "mocha":  "1.6.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "iOS",
+    "apple",
+    "passbook",
+    "card",
+    "pkpass",
+    "library"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/advatar/pkpass"
+  },
+  "bugs": {
+    "url": "https://github.com/advatar/pkpass/issues"
+  },
+  "licenses": [
+    { "type": "MIT",
+      "url": "http://github.com/advatar/pkpass/blob/master/LICENSE"
+    }
+  ]
+}
